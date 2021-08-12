@@ -30,9 +30,11 @@ h1 {
 }
 
 img {
-  height: 70vh;
+  height: 100%;
+  max-width: 100%;
 }
 
 .imgBlock {
   text-align: center;
+  height: 65vh;
 }
