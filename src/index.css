@@ -30,10 +30,8 @@ h1 {
 }
 
 img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   height: 70vh;
+  max-width: 100%;
 }
 
 .imgBlock {
