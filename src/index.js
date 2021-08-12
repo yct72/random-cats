@@ -4,6 +4,10 @@ import './index.css';
 import App from './App';
 import firebase from 'firebase/app';
 import 'firebase/database';
+import ReactGA from 'react-ga';
+ReactGA.initialize('G-RJ14WCM1VV');
+ReactGA.pageview(window.location.pathname + window.location.search);
+
 const firebaseConfig = {
   apiKey: "AIzaSyBmh9RGibDB6MujyzXoS2t0gUk4hZWsDmE",
   authDomain: "random-cats-fc969.firebaseapp.com",

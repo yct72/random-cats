@@ -1,8 +1,5 @@
 import { useState } from "react";
 
-
-
-
 const LikeBtn = ({ db, initCount }) => {
     
     const [liked, setLiked] = useState(false);

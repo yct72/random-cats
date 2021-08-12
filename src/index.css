@@ -8,7 +8,6 @@ h1 {
 
 .btn {
   text-align: center;
-  
 }
 
 .generator {
@@ -46,9 +45,8 @@ img {
 }
 
 .like {
-  height: 2vw;
+  height: 20px;
 }
-
 
 p {
   font-family: monospace;
