@@ -5,7 +5,7 @@ import App from './App';
 import firebase from 'firebase/app';
 import 'firebase/database';
 import ReactGA from 'react-ga';
-ReactGA.initialize('G-RJ14WCM1VV');
+ReactGA.initialize('UA-202494290-1');
 ReactGA.pageview(window.location.pathname + window.location.search);
 
 const firebaseConfig = {
