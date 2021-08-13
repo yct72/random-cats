@@ -29,13 +29,13 @@ h1 {
 }
 
 img {
-  height: 100%;
+  height: 90%;
   max-width: 100%;
 }
 
 .imgBlock {
   text-align: center;
-  height: 65vh;
+  height: 55vh;
 }
 
 .countLike {
