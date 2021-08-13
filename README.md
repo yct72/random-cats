@@ -1,3 +1,9 @@
+# Random! Cat 2.0
+Click `CLICK ME` to generate random CAAAAAATS!
+### Bugs ?
+Feel free to let me know if there's any vulnerability.
+- misspelling : su"r"prise
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
