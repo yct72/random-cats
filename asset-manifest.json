@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/random-cats/static/css/main.cb59f771.chunk.css",
+    "main.css": "/random-cats/static/css/main.5639a9de.chunk.css",
     "main.js": "/random-cats/static/js/main.5155f2a1.chunk.js",
     "main.js.map": "/random-cats/static/js/main.5155f2a1.chunk.js.map",
     "runtime-main.js": "/random-cats/static/js/runtime-main.d2b4c3bc.js",
@@ -8,7 +8,7 @@
     "static/js/2.2dbe19de.chunk.js": "/random-cats/static/js/2.2dbe19de.chunk.js",
     "static/js/2.2dbe19de.chunk.js.map": "/random-cats/static/js/2.2dbe19de.chunk.js.map",
     "index.html": "/random-cats/index.html",
-    "static/css/main.cb59f771.chunk.css.map": "/random-cats/static/css/main.cb59f771.chunk.css.map",
+    "static/css/main.5639a9de.chunk.css.map": "/random-cats/static/css/main.5639a9de.chunk.css.map",
     "static/js/2.2dbe19de.chunk.js.LICENSE.txt": "/random-cats/static/js/2.2dbe19de.chunk.js.LICENSE.txt",
     "static/media/0.png": "/random-cats/static/media/0.8da13985.png",
     "static/media/10.png": "/random-cats/static/media/10.877973bd.png",
@@ -34,7 +34,7 @@
   "entrypoints": [
     "static/js/runtime-main.d2b4c3bc.js",
     "static/js/2.2dbe19de.chunk.js",
-    "static/css/main.cb59f771.chunk.css",
+    "static/css/main.5639a9de.chunk.css",
     "static/js/main.5155f2a1.chunk.js"
   ]
 }
