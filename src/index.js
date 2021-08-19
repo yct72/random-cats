@@ -9,7 +9,7 @@ ReactGA.initialize('UA-202494290-1');
 ReactGA.pageview(window.location.pathname + window.location.search);
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBmh9RGibDB6MujyzXoS2t0gUk4hZWsDmE",
+  apiKey: process.env.REACT_APP_API_KEY,
   authDomain: "random-cats-fc969.firebaseapp.com",
   databaseURL: "https://random-cats-fc969-default-rtdb.firebaseio.com",
   projectId: "random-cats-fc969",
